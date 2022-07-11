@@ -1,0 +1,11 @@
+#combutt1 {
+    border-radius: 12px;
+}
+#combutt1:hover {
+    transition: 0.3s;
+    background-color: rgb(245, 237, 236);
+    color: red;
+}
+/* #maincont {
+    background-image: url("https://www.thesecret.tv/wp-content/uploads/2020/04/icon-books-578x384.png");
+} */
